@@ -1,0 +1,5 @@
+C:\dev\Blogger\src\Bloggeriffic\Bloggeriffic\bin\Bloggeriffic.dll
+C:\dev\Blogger\src\Bloggeriffic\Bloggeriffic\bin\Bloggeriffic.pdb
+C:\dev\Blogger\src\Bloggeriffic\Bloggeriffic\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\Blogger\src\Bloggeriffic\Bloggeriffic\obj\Debug\Bloggeriffic.dll
+C:\dev\Blogger\src\Bloggeriffic\Bloggeriffic\obj\Debug\Bloggeriffic.pdb

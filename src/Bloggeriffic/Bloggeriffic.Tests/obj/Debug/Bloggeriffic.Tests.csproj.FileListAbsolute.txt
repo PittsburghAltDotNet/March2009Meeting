@@ -1,0 +1,9 @@
+C:\dev\Blogger\src\Bloggeriffic\Bloggeriffic.Tests\bin\Debug\Bloggeriffic.Tests.dll.config
+C:\dev\Blogger\src\Bloggeriffic\Bloggeriffic.Tests\bin\Debug\Bloggeriffic.Tests.dll
+C:\dev\Blogger\src\Bloggeriffic\Bloggeriffic.Tests\bin\Debug\Bloggeriffic.Tests.pdb
+C:\dev\Blogger\src\Bloggeriffic\Bloggeriffic.Tests\bin\Debug\Bloggeriffic.dll
+C:\dev\Blogger\src\Bloggeriffic\Bloggeriffic.Tests\bin\Debug\nunit.framework.dll
+C:\dev\Blogger\src\Bloggeriffic\Bloggeriffic.Tests\bin\Debug\Bloggeriffic.pdb
+C:\dev\Blogger\src\Bloggeriffic\Bloggeriffic.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\Blogger\src\Bloggeriffic\Bloggeriffic.Tests\obj\Debug\Bloggeriffic.Tests.dll
+C:\dev\Blogger\src\Bloggeriffic\Bloggeriffic.Tests\obj\Debug\Bloggeriffic.Tests.pdb
