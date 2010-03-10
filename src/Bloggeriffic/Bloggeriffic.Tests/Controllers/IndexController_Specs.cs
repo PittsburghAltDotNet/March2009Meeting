@@ -1,4 +1,6 @@
+using System.Collections.Generic;
 using System.Linq;
+using System.Web.Mvc;
 using Bloggeriffic.Controllers;
 using NUnit.Framework;
 
@@ -8,13 +10,16 @@ namespace Bloggeriffic.Tests.Controllers
     public class IndexController_Specs
     {
         [Test]
-        public void Should_display_all_available_posts()
+        public void Should_display_First_post()
         {
-            var controller = new IndexController();
-            var posts = controller.GetAllPosts();
+            var controller = new PostController();
+            var posts = (ViewResult)controller.Post(1);
 
-            Assert.AreEqual(3, posts.Count());
+            var titles = (string)posts.ViewData["post"];
+
+            Assert.IsNotNull(titles);
         }
 
+        
     }
 }
